@@ -1,0 +1,13 @@
+{
+    "state": {
+        "orderBooks": {
+            "0":{
+                "id":"0",
+                "asks": [],
+                "bids": [],
+                "trades":{},
+                "operator":"arman"
+            }
+        }
+    }
+}

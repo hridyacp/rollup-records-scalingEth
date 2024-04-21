@@ -1,0 +1,141 @@
+video{
+    position: fixed;
+    object-fit: cover;
+  }
+  .card-container{
+    background: rgb(249, 233, 233 ,0.2);
+    color: white;
+    font-weight: 900;
+    font-size: large;
+}
+article {
+  --hover: 0;
+}
+
+article:hover {
+  --hover: 1;
+}
+ul {
+  margin: 0px;
+  padding: 0px;
+}
+.footer-section {
+/* background: #151414; */
+position: relative;
+}
+.footer-cta {
+border-bottom: 0.5px solid  #aaa8a8;
+}
+.single-cta img {
+color: #ff5e14;
+font-size: 30px;
+float: left;
+margin-top: 8px;
+}
+.cta-text {
+padding-left: 15px;
+display: inline-block;
+}
+.cta-text h4 {
+color: #fff;
+font-size: 20px;
+font-weight: 600;
+margin-bottom: 2px;
+}
+.cta-text span {
+color:  #fff;
+font-size: 15px;
+}
+.footer-content {
+position: relative;
+z-index: 2;
+}
+.footer-pattern img {
+position: absolute;
+top: 0;
+left: 0;
+height: 330px;
+background-size: cover;
+background-position: 100% 100%;
+}
+
+video{
+  position: fixed;
+  width:100%;
+  height:100vh;
+  object-fit: cover;
+}
+
+.copyright-text p {
+margin: 0;
+font-size: 14px;
+color:  #fff;
+}
+
+.border {
+  height: 340px;
+  width: 290px;
+  background: transparent;
+  border-radius: 10px;
+  transition: border 1s;
+  position: relative;
+}
+.border:hover {
+  border: 1px solid #fff;
+  height: 379px;
+  width: 300px;
+}
+.card {
+  height: 379px;
+  width: 300px;
+  background: #808080;
+  border-radius: 10px;
+  transition: background 0.8s;
+  overflow: hidden;
+  background: #000;
+  box-shadow: 0 70px 63px -60px #000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+.card0 {
+  background: url("../Assets/builtBy.jpeg") center center no-repeat;
+  background-size: 300px;
+}
+.card0:hover {
+  background: url("../Assets/builtBy.jpeg") left center no-repeat;
+  background-size: 600px;
+}
+.card0:hover h2 {
+  opacity: 1;
+}
+.card0:hover .fa {
+  opacity: 1;
+}
+
+h2 {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: #fff;
+  margin: 20px;
+  opacity: 0;
+  transition: opacity 1s;
+}
+.fa {
+  opacity: 0;
+  transition: opacity 1s;
+}
+.icons {
+  position: absolute;
+  fill: #fff;
+  color: #fff;
+  height: 130px;
+  top: 226px;
+  width: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}
+
+

@@ -1,0 +1,8 @@
+/Users/armanaurobindo/Desktop/Hackathons/hello-world/methods/guest/target/debug/deps/librisc0_zkvm_platform-53b3c38ece2e0183.rmeta: /Users/armanaurobindo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/risc0-zkvm-platform-0.21.0/src/lib.rs /Users/armanaurobindo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/risc0-zkvm-platform-0.21.0/src/memory.rs /Users/armanaurobindo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/risc0-zkvm-platform-0.21.0/src/syscall.rs /Users/armanaurobindo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/risc0-zkvm-platform-0.21.0/src/../README.md
+
+/Users/armanaurobindo/Desktop/Hackathons/hello-world/methods/guest/target/debug/deps/risc0_zkvm_platform-53b3c38ece2e0183.d: /Users/armanaurobindo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/risc0-zkvm-platform-0.21.0/src/lib.rs /Users/armanaurobindo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/risc0-zkvm-platform-0.21.0/src/memory.rs /Users/armanaurobindo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/risc0-zkvm-platform-0.21.0/src/syscall.rs /Users/armanaurobindo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/risc0-zkvm-platform-0.21.0/src/../README.md
+
+/Users/armanaurobindo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/risc0-zkvm-platform-0.21.0/src/lib.rs:
+/Users/armanaurobindo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/risc0-zkvm-platform-0.21.0/src/memory.rs:
+/Users/armanaurobindo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/risc0-zkvm-platform-0.21.0/src/syscall.rs:
+/Users/armanaurobindo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/risc0-zkvm-platform-0.21.0/src/../README.md:

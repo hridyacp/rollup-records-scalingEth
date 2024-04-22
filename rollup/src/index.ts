@@ -7,7 +7,7 @@ import { Playground } from "@stackr/sdk/plugins";
 import express, {Express, Request, Response} from "express";
 import cors from "cors";
 
-const wallet = HDNodeWallet.fromPhrase("fix robust disorder basic equip doll family weasel advice course exit silly");
+const wallet = HDNodeWallet.fromPhrase("Your phrase");
 const app: Express = express()
 app.use(cors())
 app.use(express.json())
